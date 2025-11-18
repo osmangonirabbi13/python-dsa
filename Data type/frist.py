@@ -28,3 +28,4 @@ print(x1)  ##FrozenSet
 ##dict
 dict1 = {"name" : "John", "age" : 36}
 print(type(dict1))
+
